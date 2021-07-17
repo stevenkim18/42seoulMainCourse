@@ -20,7 +20,7 @@
 | 1          | ft_printf     | C, 가변인자, 문자열 파싱                | printf를 직접 구현하기                              | 개인    |
 | 2          | Exam_Rank_02  | get_next_line, ft_printf                | 1단계에 배운 과제를 오프라인 환경에서 구현하는 시험 | 개인    |
 | 2          | ft_server     | docker, ssh, nginx, phpmyadmin, mysql   | 도커를 사용해서 간단한 서버 구축하기                | 개인    |
-| 2          | cub3d         | C, 3D programming, Raycasting           |                                                     |         |
+| 2          | cub3d         | C, 3D programming, Raycasting           | c mlx 라이브러리를 사용해서 wolfenstein 3d 게임 만들기| 개인     |
 |            |               |                                         |                                                     |         |
 |            |               |                                         |                                                     |         |
 |            |               |                                         |                                                     |         |
